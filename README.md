@@ -1,6 +1,7 @@
 # My solution for Assignment 1
 
 *Please note that my solution uses Ruby, Rails and third party libraries in order to quickly create a DB and insert from my script.*
+*Additionally, only dates, shape names, and durations are cleaned here*
 
 ## Pseudocode
 
